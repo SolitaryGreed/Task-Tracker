@@ -1,6 +1,6 @@
 Task CLI Application - README
 Overview
-The Task CLI Application is a command-line interface (CLI) tool for managing personal tasks. It allows users to add, update, delete, and mark tasks with different statuses such as "in-progress" or "done." Additionally, users can list all tasks or filter them based on their status. https://roadmap.sh/projects/task-tracker
+The Task CLI Application is a command-line interface (CLI) tool for managing personal tasks. It allows users to add, update, delete, and mark tasks with different statuses such as "in-progress" or "done." Additionally, users can list all tasks or filter them based on their status. Idea for training taken from here: https://roadmap.sh/projects/task-tracker
 
 Features
 Add new tasks
